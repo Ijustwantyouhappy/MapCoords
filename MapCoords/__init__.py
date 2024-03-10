@@ -13,4 +13,3 @@ from MapCoords.dis_compute import *
 from MapCoords.rings import *
 
 
-__version__ = '0.1.8'

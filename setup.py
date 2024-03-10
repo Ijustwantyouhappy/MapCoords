@@ -6,7 +6,7 @@ import re
 
 setup(
     name="MapCoords",
-    version=re.findall('__version__\s*=\s*"(.*?)"', open("MapCoords/__init__.py", "r", encoding="utf-8").read())[0],
+    version="0.1.8",
     author='Ijustwantyouhappy',
     author_email='',
     description="A Python library about map coordinates",
