@@ -38,8 +38,6 @@ setup(
         "Environment :: Web Environment",
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
-        'Operating System :: Windows',
-        'Operating System :: MacOS',
         "Topic :: Software Development :: Libraries :: Python Modules",
         'Programming Language :: Python :: 3',
     ],
