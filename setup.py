@@ -12,7 +12,11 @@ setup(
     description="A Python library about map coordinates",
     long_description=open('README.rst').read(),  # todo write README seriously
     # long_description_content_type="text/markdown",
-    url='',
+    url='https://github.com/Ijustwantyouhappy/MapCoords',
+    project_urls={
+        "GitHub": "https://github.com/Ijustwantyouhappy/MapCoords",
+        "Source": "https://github.com/Ijustwantyouhappy/MapCoords"
+    },
     # maintainer='',
     # maintainer_email='',
     license='MIT',
